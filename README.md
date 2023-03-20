@@ -1,4 +1,4 @@
-# 5-day-weather-froecast
+# 5-day-weather-forecast
 
 ## This was a weather challenge given to me by my school
 
